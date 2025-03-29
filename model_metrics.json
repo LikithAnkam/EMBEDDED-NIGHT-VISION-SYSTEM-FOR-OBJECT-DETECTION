@@ -1,0 +1,10 @@
+{
+    "accuracy":78,
+    "presecion":69,
+    "recall":73,
+    "f1_score":69,
+    "accu_ada":53,
+    "pre_ada":47,
+    "recall_ada":40,
+    "f1_ada":50
+}
